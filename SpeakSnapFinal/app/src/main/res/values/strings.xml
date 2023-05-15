@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpeakSnap</string>
+    <string name="logo1">Logo with name</string>
+    <string name="logo2">Logo without name</string>
+    <string name="uname">Username</string>
+    <string name="pword">Password</string>
+    <string name="login">Log in</string>
+    <string name="signup">Sign up</string>
+    <string name="speak">Speak</string>
+    <string name="snap">Snap</string>
+    <string name="lang1">Korean</string>
+    <string name="backbtn1">Back</string>
+    <string name="try1">English</string>
+    <string name="try2">Korean</string>
+</resources>
