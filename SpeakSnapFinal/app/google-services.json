@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117775714563",
+    "project_id": "speaksnap",
+    "storage_bucket": "speaksnap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117775714563:android:db72f10ddfb9f856cb8136",
+        "android_client_info": {
+          "package_name": "com.company.SpeakSnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117775714563-kk57c6fgl5af5ocaee4fstt711rbpj2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIv97Wy7rf6Ps3OoNI11MorViQ4AuHPlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117775714563-kk57c6fgl5af5ocaee4fstt711rbpj2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
